@@ -4,6 +4,8 @@
 
 **地図を開く → https://araaraai.github.io/japan-camp-map/**
 
+関連: [釣り・車中泊の温泉マップ](https://araaraai.github.io/japan-onsen-map/)
+
 ## 載っているもの
 
 - **キャンプ場** 約5,700か所、**RVパーク等** 約180か所（OpenStreetMap）
